@@ -13,7 +13,7 @@ Use this tool only on networks that you have permission for.
 <img src=https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg></img><br>
 
 It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method.
-
+ bbbbbbbbbbbbbbbbbbbbbbbbvvvvvvbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 ## FEATURES :
 * Now you can control web interface with simple android app **NEW
 * Added .bin file for flash with android phone🖤 **NEW
